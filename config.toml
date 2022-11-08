@@ -1,0 +1,4 @@
+baseURL = 'http://www.keathley.co/'
+languageCode = 'en-us'
+title = 'Keathley.co'
+theme = "archie"
