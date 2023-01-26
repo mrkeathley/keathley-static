@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.keathley.co/posts/dark-heresy-2nd/</loc>
+    <loc>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</loc>
     <lastmod>2022-11-08T14:04:15-05:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/</loc>
@@ -10,6 +10,9 @@
   </url><url>
     <loc>https://www.keathley.co/posts/</loc>
     <lastmod>2022-11-08T14:04:15-05:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</loc>
+    <lastmod>2020-06-27T20:15:15-05:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/categories/</loc>
   </url><url>

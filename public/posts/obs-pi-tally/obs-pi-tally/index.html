@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html><head>
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>OBS Tally Lights using a Raspberry Pi - keathley.co</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="OBS Tally Lights using Raspberry Pi
+GitHub Source
+See them in action
+In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.
+If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green." />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="OBS Tally Lights using a Raspberry Pi" />
+<meta property="og:description" content="OBS Tally Lights using Raspberry Pi
+GitHub Source
+See them in action
+In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.
+If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-06-27T20:15:15-05:00" />
+<meta property="article:modified_time" content="2020-06-27T20:15:15-05:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="OBS Tally Lights using a Raspberry Pi"/>
+<meta name="twitter:description" content="OBS Tally Lights using Raspberry Pi
+GitHub Source
+See them in action
+In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.
+If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green."/>
+
+	
+        <link href="https://www.keathley.co/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="https://www.keathley.co/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="https://www.keathley.co/">keathley.co</a>
+	</div>
+	<nav>
+		
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">OBS Tally Lights using a Raspberry Pi</h1>
+			<div class="meta">Posted on Jun 27, 2020</div>
+		</div>
+		
+
+		<section class="body">
+			<p>OBS Tally Lights using Raspberry Pi</p>
+<p><a href="https://github.com/mrkeathley/obs-pi-tally">GitHub Source</a></p>
+<p><a href="https://imgur.com/TWroxMK">See them in action</a></p>
+<p>In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.</p>
+<p>If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green.</p>
+<h2 id="instructions">Instructions</h2>
+<p>Install the required dependencies on the Raspberry Pi:</p>
+<p><code>apt-get install python3-pip</code></p>
+<p><code>pip3 install RPi.GPIO</code></p>
+<p><code>pip3 install websocket_client</code></p>
+<p>Move the files onto the Rapsberry Pi &ndash; the default location is <code>/home/pi</code></p>
+<p>Edit the <code>config.ini</code> to contain the OBS host address and the source to watch.</p>
+<p>Run with <code>python3 obs_tally.py</code></p>
+<h2 id="run-on-start">Run on start</h2>
+<p>Configure the <code>obs_tally.service</code> file to contain the path and working directory where the tally service lives.</p>
+<p>Copy the <code>obs_tally.service</code> file into <code>/etc/systemd/system/</code></p>
+<p>Then enable it with <code>sudo systemctl enable obs_tally.service</code></p>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			
+		</div>
+	</article>
+</main>
+
+        </div>
+    </body>
+</html>
