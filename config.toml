@@ -1,4 +1,5 @@
 baseURL = 'https://www.keathley.co/'
 languageCode = 'en-us'
-title = 'Keathley.co'
+title = 'keathley.co'
 theme = "archie"
+staticDir = ["static", "images"]
