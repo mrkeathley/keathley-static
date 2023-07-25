@@ -2,6 +2,10 @@
 title: "OBS Tally Lights using a Raspberry Pi"
 date: 2020-06-27T20:15:15-05:00
 draft: false
+tags:
+  - CS
+  - Python
+  - Pi
 ---
 OBS Tally Lights using Raspberry Pi
 

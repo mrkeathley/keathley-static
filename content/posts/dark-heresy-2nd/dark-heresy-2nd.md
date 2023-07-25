@@ -2,6 +2,10 @@
 title: "Foundry VTT System: Dark Heresy 2nd Edition"
 date: 2022-11-08T14:04:15-05:00
 draft: false
+tags:
+  - RPG
+  - 40K
+  - Foundry
 ---
 This is an _unofficial_ system for playing Dark Heresy 2nd Edition on [Foundry VTT](https://foundryvtt.com/).
 
