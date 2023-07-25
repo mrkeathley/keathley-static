@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on keathley.co</title>
+    <link>https://www.keathley.co/tags/technology/</link>
+    <description>Recent content in Technology on keathley.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Bookmarks and Quick Reference</title>
+      <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>
+      <pubDate>Wed, 19 Jul 2023 22:21:00 -0500</pubDate>
+      
+      <guid>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</guid>
+      <description>Introduction AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence.</description>
+    </item>
+    
+  </channel>
+</rss>
