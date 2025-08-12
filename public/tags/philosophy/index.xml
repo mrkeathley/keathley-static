@@ -2,38 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Philosophy on keathley.co</title>
-    <link>https://www.keathley.co/tags/philosophy/</link>
+    <link>http://localhost:1313/tags/philosophy/</link>
     <description>Recent content in Philosophy on keathley.co</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Bookmarks and Quick Reference</title>
-      <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>
+      <link>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</link>
       <pubDate>Wed, 19 Jul 2023 22:21:00 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</guid>
-      <description>Introduction AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence.</description>
+      <guid>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence. It should go without saying that it is incomplete and is a list of people and information that I personally find useful. I am always looking for new resources and content to absorb in this field so please DM me any other ideas on Twitter: &lt;a href=&#34;https://twitter.com/Matt_Keathley&#34;&gt;@Matt_Keathley&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Let Them Be Wrong</title>
-      <link>https://www.keathley.co/posts/let-them-be-wrong/let-them-be-wrong/</link>
-      <pubDate>Wed, 10 May 2023 14:04:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/let-them-be-wrong/let-them-be-wrong/</guid>
-      <description>As my children have grown there have been many opportunities to pass on wisdom that I have learned. I used to believe the limiting factor to this endeavor was simply interest and the time required through conversation to have discussions. But what is immediately apparent when dealing with a child or young teen is that there are sometimes intellectual limitations to their understanding. Although an argument can be made as comprehensively and coherently as possible an impasse can be found when the neurons in the brain simply are not yet developed.</description>
-    </item>
-    
-    <item>
-      <title>Philosophy of Life</title>
-      <link>https://www.keathley.co/posts/life-philosophy/life-philosophy/</link>
-      <pubDate>Thu, 01 Sep 2022 10:04:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/life-philosophy/life-philosophy/</guid>
-      <description>Personal Vision Live one day at a time engaged and solving problems with empathy and love for others and an alignment and love for God. Keep an open hand with everything else knowing that we come from nothing and to nothing we return.
-Core Values Empathy Innovation Fun Community Growth Beliefs We enter the world with nothing and exit with nothing. Once you understand that and stop trying to hold onto things you will be able to enjoy them.</description>
-    </item>
-    
   </channel>
 </rss>

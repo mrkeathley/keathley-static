@@ -2,32 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CS on keathley.co</title>
-    <link>https://www.keathley.co/tags/cs/</link>
+    <link>http://localhost:1313/tags/cs/</link>
     <description>Recent content in CS on keathley.co</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Bookmarks and Quick Reference</title>
-      <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>
+      <link>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</link>
       <pubDate>Wed, 19 Jul 2023 22:21:00 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</guid>
-      <description>Introduction AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence.</description>
+      <guid>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence. It should go without saying that it is incomplete and is a list of people and information that I personally find useful. I am always looking for new resources and content to absorb in this field so please DM me any other ideas on Twitter: &lt;a href=&#34;https://twitter.com/Matt_Keathley&#34;&gt;@Matt_Keathley&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>OBS Tally Lights using a Raspberry Pi</title>
-      <link>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</link>
+      <link>http://localhost:1313/posts/obs-pi-tally/obs-pi-tally/</link>
       <pubDate>Sat, 27 Jun 2020 20:15:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</guid>
-      <description>OBS Tally Lights using Raspberry Pi
-GitHub Source
-See them in action
-In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.
-If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green.</description>
+      <guid>http://localhost:1313/posts/obs-pi-tally/obs-pi-tally/</guid>
+      <description>&lt;p&gt;OBS Tally Lights using Raspberry Pi&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mrkeathley/obs-pi-tally&#34;&gt;GitHub Source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imgur.com/TWroxMK&#34;&gt;See them in action&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.&lt;/p&gt;&#xA;&lt;p&gt;If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

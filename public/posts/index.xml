@@ -2,80 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on keathley.co</title>
-    <link>https://www.keathley.co/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on keathley.co</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Bookmarks and Quick Reference</title>
-      <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>
+      <link>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</link>
       <pubDate>Wed, 19 Jul 2023 22:21:00 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</guid>
-      <description>Introduction AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence.</description>
+      <guid>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence. It should go without saying that it is incomplete and is a list of people and information that I personally find useful. I am always looking for new resources and content to absorb in this field so please DM me any other ideas on Twitter: &lt;a href=&#34;https://twitter.com/Matt_Keathley&#34;&gt;@Matt_Keathley&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>16 Years Later</title>
-      <link>https://www.keathley.co/posts/16-anniversary/16-anniversary/</link>
-      <pubDate>Fri, 07 Jul 2023 07:17:00 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/16-anniversary/16-anniversary/</guid>
-      <description>Deana and I met in 2006 when I had just moved to North Carolina following Hurricane Katrina. I was at a friend’s apartment to play board games and she was there to borrow a movie. I added her on AIM (rest in peace) and we started talking there. I still have the transcript of those couple months of conversations and it’s hilarious. We would start dating almost a month after that exactly on my birthday.</description>
-    </item>
-    
-    <item>
-      <title>Thoughts on the Past</title>
-      <link>https://www.keathley.co/posts/thoughts-on-the-past/thoughts-on-the-past/</link>
-      <pubDate>Wed, 21 Jun 2023 09:35:00 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/thoughts-on-the-past/thoughts-on-the-past/</guid>
-      <description>I was born in a small town in southeast Missouri called ‘Poplar Bluff’. My early memories are almost exclusively happy. I remember looking up at the counter tops as I walked around the kitchen and living room. My mom, Penny, was making a grilled cheese sandwich and Perry Mason was on the television in the living room. My dad, Kenneth, was the pastor of Maud Street Baptist church at the time.</description>
-    </item>
-    
-    <item>
-      <title>Let Them Be Wrong</title>
-      <link>https://www.keathley.co/posts/let-them-be-wrong/let-them-be-wrong/</link>
-      <pubDate>Wed, 10 May 2023 14:04:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/let-them-be-wrong/let-them-be-wrong/</guid>
-      <description>As my children have grown there have been many opportunities to pass on wisdom that I have learned. I used to believe the limiting factor to this endeavor was simply interest and the time required through conversation to have discussions. But what is immediately apparent when dealing with a child or young teen is that there are sometimes intellectual limitations to their understanding. Although an argument can be made as comprehensively and coherently as possible an impasse can be found when the neurons in the brain simply are not yet developed.</description>
-    </item>
-    
     <item>
       <title>Foundry VTT System: Dark Heresy 2nd Edition</title>
-      <link>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</link>
+      <link>http://localhost:1313/posts/dark-heresy-2nd/dark-heresy-2nd/</link>
       <pubDate>Tue, 08 Nov 2022 14:04:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</guid>
-      <description>This is an unofficial system for playing Dark Heresy 2nd Edition on Foundry VTT.
-It offers extensive support for character sheets, compendium packs, and automated management to save you time and allow you to focus on role playing. The existing system listed on Foundry was character sheet only and thus this system was created to facilitate the automation features I desired.
-Features 🗡️ The system includes a variety of compendium packs, such as weapons, weapon mods, talents, armor, psychic abilities, ammunition, tools, traits, attack specials (toxic, corrosive, etc.</description>
+      <guid>http://localhost:1313/posts/dark-heresy-2nd/dark-heresy-2nd/</guid>
+      <description>&lt;p&gt;This is an &lt;em&gt;unofficial&lt;/em&gt; system for playing Dark Heresy 2nd Edition on &lt;a href=&#34;https://foundryvtt.com/&#34;&gt;Foundry VTT&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It offers extensive support for character sheets, compendium packs, and automated management to save you time and allow you to focus on role playing. The existing system listed on Foundry was character sheet only and thus this system was created to facilitate the automation features I desired.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;p&gt;🗡️ The system includes a variety of compendium packs, such as weapons, weapon mods, talents, armor, psychic abilities, ammunition, tools, traits, attack specials (toxic, corrosive, etc.), and consumables and drugs.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Philosophy of Life</title>
-      <link>https://www.keathley.co/posts/life-philosophy/life-philosophy/</link>
-      <pubDate>Thu, 01 Sep 2022 10:04:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/life-philosophy/life-philosophy/</guid>
-      <description>Personal Vision Live one day at a time engaged and solving problems with empathy and love for others and an alignment and love for God. Keep an open hand with everything else knowing that we come from nothing and to nothing we return.
-Core Values Empathy Innovation Fun Community Growth Beliefs We enter the world with nothing and exit with nothing. Once you understand that and stop trying to hold onto things you will be able to enjoy them.</description>
-    </item>
-    
     <item>
       <title>OBS Tally Lights using a Raspberry Pi</title>
-      <link>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</link>
+      <link>http://localhost:1313/posts/obs-pi-tally/obs-pi-tally/</link>
       <pubDate>Sat, 27 Jun 2020 20:15:15 -0500</pubDate>
-      
-      <guid>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</guid>
-      <description>OBS Tally Lights using Raspberry Pi
-GitHub Source
-See them in action
-In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.
-If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green.</description>
+      <guid>http://localhost:1313/posts/obs-pi-tally/obs-pi-tally/</guid>
+      <description>&lt;p&gt;OBS Tally Lights using Raspberry Pi&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mrkeathley/obs-pi-tally&#34;&gt;GitHub Source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imgur.com/TWroxMK&#34;&gt;See them in action&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.&lt;/p&gt;&#xA;&lt;p&gt;If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
