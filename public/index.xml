@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>keathley.co</title>
-    <link>http://localhost:1313/</link>
+    <link>https://www.keathley.co/</link>
     <description>Recent content on keathley.co</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.keathley.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Bookmarks and Quick Reference</title>
-      <link>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</link>
+      <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>
       <pubDate>Wed, 19 Jul 2023 22:21:00 -0500</pubDate>
-      <guid>http://localhost:1313/posts/ai-quick-reference/ai-quick-reference/</guid>
+      <guid>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence. It should go without saying that it is incomplete and is a list of people and information that I personally find useful. I am always looking for new resources and content to absorb in this field so please DM me any other ideas on Twitter: &lt;a href=&#34;https://twitter.com/Matt_Keathley&#34;&gt;@Matt_Keathley&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Foundry VTT System: Dark Heresy 2nd Edition</title>
-      <link>http://localhost:1313/posts/dark-heresy-2nd/dark-heresy-2nd/</link>
+      <link>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</link>
       <pubDate>Tue, 08 Nov 2022 14:04:15 -0500</pubDate>
-      <guid>http://localhost:1313/posts/dark-heresy-2nd/dark-heresy-2nd/</guid>
+      <guid>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</guid>
       <description>&lt;p&gt;This is an &lt;em&gt;unofficial&lt;/em&gt; system for playing Dark Heresy 2nd Edition on &lt;a href=&#34;https://foundryvtt.com/&#34;&gt;Foundry VTT&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It offers extensive support for character sheets, compendium packs, and automated management to save you time and allow you to focus on role playing. The existing system listed on Foundry was character sheet only and thus this system was created to facilitate the automation features I desired.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;p&gt;🗡️ The system includes a variety of compendium packs, such as weapons, weapon mods, talents, armor, psychic abilities, ammunition, tools, traits, attack specials (toxic, corrosive, etc.), and consumables and drugs.&lt;/p&gt;</description>
     </item>
     <item>
       <title>OBS Tally Lights using a Raspberry Pi</title>
-      <link>http://localhost:1313/posts/obs-pi-tally/obs-pi-tally/</link>
+      <link>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</link>
       <pubDate>Sat, 27 Jun 2020 20:15:15 -0500</pubDate>
-      <guid>http://localhost:1313/posts/obs-pi-tally/obs-pi-tally/</guid>
+      <guid>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</guid>
       <description>&lt;p&gt;OBS Tally Lights using Raspberry Pi&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/mrkeathley/obs-pi-tally&#34;&gt;GitHub Source&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://imgur.com/TWroxMK&#34;&gt;See them in action&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In our use case we wanted lights attached to a specific camera that might appear in multiple scenes. To accomplish this, this script tracks a OBS source by name even if it appears in multiple scenes.&lt;/p&gt;&#xA;&lt;p&gt;If the source is live the tally light is red. If the source is in preview the light is yellow. And if the source is not in use in either location the light is green.&lt;/p&gt;</description>
     </item>
   </channel>
