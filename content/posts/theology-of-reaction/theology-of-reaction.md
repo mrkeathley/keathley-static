@@ -7,9 +7,6 @@ tags:
   - book-review
   - evangelicalism
 ---
-
-# Theology of Reaction
-
 Lately I have been thinking about a recurring pattern I see in some contemporary evangelical critique. It has shown up in books (that I will discuss below), social media, and personal conversations that I have had in the church. The pattern usually begins with something true and important such as real harm has been done by someone in the church. It can be abuses of authority, historical failures within the church, or the misuse of biblical language. This in turn caused very real pain to people.
 
 I don't think those things should be minimized! Christians should always be willing to tell the truth about sin. And this is never more true when that sin has been covered with spiritual language.
