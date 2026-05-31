@@ -4,8 +4,7 @@
     <title>Categories on keathley.co</title>
     <link>https://www.keathley.co/categories/</link>
     <description>Recent content in Categories on keathley.co</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://www.keathley.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://www.keathley.co/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

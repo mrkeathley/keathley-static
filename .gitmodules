@@ -1,3 +1,6 @@
 [submodule "keathley/themes/archie"]
 	path = keathley/themes/archie
 	url = https://github.com/athul/archie.git
+[submodule "themes/hugo-blog-awesome"]
+	path = themes/hugo-blog-awesome
+	url = https://github.com/hugo-sid/hugo-blog-awesome.git

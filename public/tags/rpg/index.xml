@@ -4,16 +4,22 @@
     <title>RPG on keathley.co</title>
     <link>https://www.keathley.co/tags/rpg/</link>
     <description>Recent content in RPG on keathley.co</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Nov 2022 14:04:15 -0500</lastBuildDate>
-    <atom:link href="https://www.keathley.co/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Nov 2022 14:04:15 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/rpg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foundry VTT System: Dark Heresy 2nd Edition</title>
       <link>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</link>
       <pubDate>Tue, 08 Nov 2022 14:04:15 -0500</pubDate>
+      
       <guid>https://www.keathley.co/posts/dark-heresy-2nd/dark-heresy-2nd/</guid>
-      <description>&lt;p&gt;This is an &lt;em&gt;unofficial&lt;/em&gt; system for playing Dark Heresy 2nd Edition on &lt;a href=&#34;https://foundryvtt.com/&#34;&gt;Foundry VTT&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;It offers extensive support for character sheets, compendium packs, and automated management to save you time and allow you to focus on role playing. The existing system listed on Foundry was character sheet only and thus this system was created to facilitate the automation features I desired.&lt;/p&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;p&gt;🗡️ The system includes a variety of compendium packs, such as weapons, weapon mods, talents, armor, psychic abilities, ammunition, tools, traits, attack specials (toxic, corrosive, etc.), and consumables and drugs.&lt;/p&gt;</description>
+      
+      <description>&lt;p&gt;This is an &lt;em&gt;unofficial&lt;/em&gt; system for playing Dark Heresy 2nd Edition on &lt;a href=&#34;https://foundryvtt.com/&#34;&gt;Foundry VTT&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It offers extensive support for character sheets, compendium packs, and automated management to save you time and allow you to focus on role playing. The existing system listed on Foundry was character sheet only and thus this system was created to facilitate the automation features I desired.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;p&gt;The system includes a variety of compendium packs, such as weapons, weapon mods, talents, armor, psychic abilities, ammunition, tools, traits, attack specials (toxic, corrosive, etc.), and consumables and drugs.&lt;/p&gt;</description>
+      
     </item>
+    
   </channel>
 </rss>

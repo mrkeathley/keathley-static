@@ -1,5 +1,25 @@
 baseURL = 'https://www.keathley.co/'
 languageCode = 'en-us'
 title = 'keathley.co'
-theme = "archie"
+theme = "hugo-blog-awesome"
 staticDir = ["static", "images"]
+
+[params]
+  defaultColor = "auto"
+  mainSections = ["posts"]
+  goToTop = true
+
+[params.author]
+  name = "Matt Keathley"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/mrkeathley"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://x.com/Matt_Keathley"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
