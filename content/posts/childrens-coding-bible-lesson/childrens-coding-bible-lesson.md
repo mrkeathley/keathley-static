@@ -7,7 +7,7 @@ tags:
   - coding
   - philosophy
 ---
-> I am not really happy with this at the moment. But it's an interesting idea as a children's bible lesson for a coder's camp. But it is an interesting concept that might be worth running with someday.
+> I am not really happy with this at the moment. But it's an interesting idea as a children's bible lesson for a coder's camp. It might be worth running with someday.
 
 The act of creation is the first act of God revealed in Scripture. We see this in the opening words of the Bible: “In the beginning God created the heavens and the earth” (Genesis 1:1). This creation brings about all things that are not God in a single amazing moment—not from preexisting materials, but from nothing. The traditional Latin phrase for this is *ex nihilo*, meaning “from nothing.”
 

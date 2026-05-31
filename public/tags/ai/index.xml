@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on keathley.co</title>
+    <title>Ai on keathley.co</title>
     <link>https://www.keathley.co/tags/ai/</link>
-    <description>Recent content in AI on keathley.co</description>
+    <description>Recent content in Ai on keathley.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jun 2024 18:55:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/ai/index.xml" rel="self" type="application/rss+xml" />
@@ -17,6 +17,17 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;There are many things I would change about this article now (as of 2026)&amp;hellip; But it is here just as a historical artifact. I am trying to resist the temptation to remove work simply because I no longer like it.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;As technology has rapidly evolved, the emergence of large language models (LLMs) like ChatGPT have sparked debate on the nature of intelligence and their ethical role in society. As the Director of IT and Automation at a leading telecom provider and with a 12-year tenure as a software developer, I have navigated these technological advancements from the forefront. My personal journey has involved writing custom neural networks and integrating the latest developments in LLMs into my daily workflow. I leverage GitHub Copilot (an LLM for software developers) to streamline my daily coding processes and consult ChatGPT for complex problem-solving and as a brainstorming partner.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Our First AIM Conversations</title>
+      <link>https://www.keathley.co/posts/aim/aim/</link>
+      <pubDate>Thu, 30 May 2024 15:22:00 -0400</pubDate>
+      
+      <guid>https://www.keathley.co/posts/aim/aim/</guid>
+      
+      <description>&lt;p&gt;So I have a download from my wife and I&amp;rsquo;s initial AIM conversations from before we started dating right through to about the time we got engaged. It&amp;rsquo;s nostalgic and embarassing and very much a time capsule from 2006. I thought it would be fun to run it through an LLM and see what it thinks of our early conversations. So everything below here is generated content based on that request for top moments and a summary.&lt;/p&gt;</description>
       
     </item>
     
