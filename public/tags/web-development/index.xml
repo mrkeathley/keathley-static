@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on keathley.co</title>
+    <link>https://www.keathley.co/tags/web-development/</link>
+    <description>Recent content in Web Development on keathley.co</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Sep 2025 18:45:15 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slot Hacker</title>
+      <link>https://www.keathley.co/posts/slot-hacker/slot-hacker/</link>
+      <pubDate>Sun, 14 Sep 2025 18:45:15 -0500</pubDate>
+      
+      <guid>https://www.keathley.co/posts/slot-hacker/slot-hacker/</guid>
+      
+      <description>&lt;p&gt;I have recently been fiddling with some slot machine probability calculations and thought it would be fun to build a little web app to help visualize and experiment with different scenarios.&lt;/p&gt;
+&lt;p&gt;This ended up being a mix of an idle &amp;lsquo;cookie clicker&amp;rsquo; style game mixed with a slot machine with a coding aesthetic. I thought it was fun and my son&amp;rsquo;s middle school buddies got a kick out of it.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

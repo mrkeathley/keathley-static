@@ -6,6 +6,7 @@ tags:
   - RPG
   - 40K
   - Foundry
+  - JavaScript
 ---
 This is an _unofficial_ system for playing Dark Heresy 2nd Edition on [Foundry VTT](https://foundryvtt.com/).
 
