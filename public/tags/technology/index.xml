@@ -6,7 +6,20 @@
     <description>Recent content in Technology on keathley.co</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jul 2023 22:21:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Jun 2024 18:55:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Closer Look at AI: Clarifying Misconceptions in the Discussion of ChatGPT</title>
+      <link>https://www.keathley.co/posts/a-closer-look-at-ai/a-closer-look-at-ai/</link>
+      <pubDate>Tue, 04 Jun 2024 18:55:00 -0500</pubDate>
+      
+      <guid>https://www.keathley.co/posts/a-closer-look-at-ai/a-closer-look-at-ai/</guid>
+      
+      <description>&lt;blockquote&gt;
+&lt;p&gt;There are many things I would change about this article now (as of 2026)&amp;hellip; But it is here just as a historical artifact. I am trying to resist the temptation to remove work simply because I no longer like it.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;As technology has rapidly evolved, the emergence of large language models (LLMs) like ChatGPT have sparked debate on the nature of intelligence and their ethical role in society. As the Director of IT and Automation at a leading telecom provider and with a 12-year tenure as a software developer, I have navigated these technological advancements from the forefront. My personal journey has involved writing custom neural networks and integrating the latest developments in LLMs into my daily workflow. I leverage GitHub Copilot (an LLM for software developers) to streamline my daily coding processes and consult ChatGPT for complex problem-solving and as a brainstorming partner.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>AI Bookmarks and Quick Reference</title>
       <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>

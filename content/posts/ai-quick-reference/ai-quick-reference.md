@@ -20,12 +20,14 @@ AI development is moving fast and it is hard to keep a handle on all the resourc
 - a16z AI Glossary: [https://a16z.com/ai-glossary/](https://a16z.com/ai-glossary/)
 - Lesswrong AI Theory and Alignment Reference: [https://www.lesswrong.com/tag/ai](https://www.lesswrong.com/tag/ai)
 - PyTorch Cheat Sheet: [https://pytorch.org/tutorials/beginner/ptcheat.html](https://pytorch.org/tutorials/beginner/ptcheat.html)
+- LLM Reading List by Evan Miller: [https://github.com/evanmiller/LLM-Reading-List](https://github.com/evanmiller/LLM-Reading-List)
 
 ## Training Resources
 
 - Brilliant’s Intro to Neural Nets: [https://brilliant.org/courses/intro-neural-networks](https://brilliant.org/courses/intro-neural-networks)
     - This is one of the best resources for those with zero prior knowledge. They teach through hands-on interaction versus raw math which makes it ideal for those wanting to have intuition about how it works.
     - Referral Code if deciding to continue with Brilliant resources: [brilliant.org/ref/QZ4EnJOj0k/](http://brilliant.org/ref/QZ4EnJOj0k/)
+- [AemonAlgiz Why Do LLM's Have Context Limits?](https://www.youtube.com/watch?v=IWmpRaJ9Dz0)
 
 ## Blogs
 
