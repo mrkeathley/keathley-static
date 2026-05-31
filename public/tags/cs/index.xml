@@ -9,10 +9,10 @@
     <lastBuildDate>Tue, 04 Jun 2024 18:55:00 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/cs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Closer Look at AI: Clarifying Misconceptions in the Discussion of ChatGPT</title>
-      <link>https://www.keathley.co/posts/a-closer-look-at-ai/a-closer-look-at-ai/</link>
+      <link>https://www.keathley.co/posts/a-closer-look-at-ai/</link>
       <pubDate>Tue, 04 Jun 2024 18:55:00 -0500</pubDate>
       
-      <guid>https://www.keathley.co/posts/a-closer-look-at-ai/a-closer-look-at-ai/</guid>
+      <guid>https://www.keathley.co/posts/a-closer-look-at-ai/</guid>
       
       <description>&lt;blockquote&gt;
 &lt;p&gt;There are many things I would change about this article now (as of 2026)&amp;hellip; But it is here just as a historical artifact. I am trying to resist the temptation to remove work simply because I no longer like it.&lt;/p&gt;&lt;/blockquote&gt;
@@ -22,10 +22,10 @@
     
     <item>
       <title>AI Bookmarks and Quick Reference</title>
-      <link>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</link>
+      <link>https://www.keathley.co/posts/ai-quick-reference/</link>
       <pubDate>Wed, 19 Jul 2023 22:21:00 -0500</pubDate>
       
-      <guid>https://www.keathley.co/posts/ai-quick-reference/ai-quick-reference/</guid>
+      <guid>https://www.keathley.co/posts/ai-quick-reference/</guid>
       
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;AI development is moving fast and it is hard to keep a handle on all the resources available. There are also many facets to the discussion surrounding AI since it is not simply a computer science but is a mainstream philosophical discussion at this point. This set of bookmarks and references are intended to provide resources for both the technical introduction but also associated discussions of rationality and the nature of intelligence. It should go without saying that it is incomplete and is a list of people and information that I personally find useful. I am always looking for new resources and content to absorb in this field so please DM me any other ideas on Twitter: &lt;a href=&#34;https://twitter.com/Matt_Keathley&#34;&gt;@Matt_Keathley&lt;/a&gt;&lt;/p&gt;</description>
@@ -34,10 +34,10 @@
     
     <item>
       <title>OBS Tally Lights using a Raspberry Pi</title>
-      <link>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</link>
+      <link>https://www.keathley.co/posts/obs-pi-tally/</link>
       <pubDate>Sat, 27 Jun 2020 20:15:15 -0500</pubDate>
       
-      <guid>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</guid>
+      <guid>https://www.keathley.co/posts/obs-pi-tally/</guid>
       
       <description>&lt;p&gt;OBS Tally Lights using Raspberry Pi&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mrkeathley/obs-pi-tally&#34;&gt;GitHub Source&lt;/a&gt;&lt;/p&gt;

@@ -9,10 +9,10 @@
     <lastBuildDate>Sat, 27 Jun 2020 20:15:15 -0500</lastBuildDate><atom:link href="https://www.keathley.co/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OBS Tally Lights using a Raspberry Pi</title>
-      <link>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</link>
+      <link>https://www.keathley.co/posts/obs-pi-tally/</link>
       <pubDate>Sat, 27 Jun 2020 20:15:15 -0500</pubDate>
       
-      <guid>https://www.keathley.co/posts/obs-pi-tally/obs-pi-tally/</guid>
+      <guid>https://www.keathley.co/posts/obs-pi-tally/</guid>
       
       <description>&lt;p&gt;OBS Tally Lights using Raspberry Pi&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/mrkeathley/obs-pi-tally&#34;&gt;GitHub Source&lt;/a&gt;&lt;/p&gt;

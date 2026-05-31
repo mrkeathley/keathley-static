@@ -1,12 +1,13 @@
 ---
-title: "Ella Mae Keathley Memoirs"
+title: "Back When"
 date: 2004-11-25T09:35:00-04:00
+author: Ella Mae Keathley
 draft: false
 tags:
   - family
 ---
 
-> My grandfather Don had this so I am preserving it. I've considered editing it a bit but I think it's best to leave it as is.
+> My grandfather Don had this so I am preserving it. I've considered editing it a bit but I think it's best to leave it as is. It is the memoirs of my great grandmother, Ella Mae Keathley.
 
 This is a transcription of my Mother’s hand written memoirs that would have been longer if her health had stayed good.  Don Keathley
 
