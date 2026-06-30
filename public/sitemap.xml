@@ -2,19 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.keathley.co/tags/fiction/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/posts/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/tags/scifi/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/tags/short-story/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/tags/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/posts/made-of-meat/</loc>
+    <lastmod>2026-06-03T17:27:00-04:00</lastmod>
+  </url><url>
     <loc>https://www.keathley.co/tags/book-review/</loc>
     <lastmod>2026-05-30T19:10:00-04:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/tags/evangelicalism/</loc>
-    <lastmod>2026-05-30T19:10:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.keathley.co/</loc>
-    <lastmod>2026-05-30T19:10:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.keathley.co/posts/</loc>
-    <lastmod>2026-05-30T19:10:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.keathley.co/tags/</loc>
     <lastmod>2026-05-30T19:10:00-04:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/tags/theology/</loc>
@@ -43,12 +55,6 @@
   </url><url>
     <loc>https://www.keathley.co/tags/web-development/</loc>
     <lastmod>2025-09-14T18:45:15-05:00</lastmod>
-  </url><url>
-    <loc>https://www.keathley.co/tags/parenting/</loc>
-    <lastmod>2025-05-18T09:10:00-04:00</lastmod>
-  </url><url>
-    <loc>https://www.keathley.co/posts/inversion-principal/</loc>
-    <lastmod>2025-05-18T09:10:00-04:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/tags/cross-post/</loc>
     <lastmod>2025-03-14T09:45:00-05:00</lastmod>
@@ -99,6 +105,9 @@
     <lastmod>2023-06-16T16:52:00-05:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/posts/mountain-fence-cliff/</loc>
+    <lastmod>2023-06-10T14:54:00-04:00</lastmod>
+  </url><url>
+    <loc>https://www.keathley.co/tags/parenting/</loc>
     <lastmod>2023-06-10T14:54:00-04:00</lastmod>
   </url><url>
     <loc>https://www.keathley.co/tags/40k/</loc>
